@@ -2,7 +2,7 @@
 
 <img src="https://github.com/tanzeem131/Bankist-When-a-banking-meets-minimalist/blob/main/img/preview_img.png" ></img>
 
-# [Demo](https://bankistapppage.netlify.app/)
+# [Demo](https://bankist-connect.netlify.app/)
 
 Bankist is a make-believe digital banking platform created as part of a project by <a href="https://github.com/jonasschmedtmann">Jonas Schmedtmann</a>. Designed for honing skills in DOM manipulation and enhancing user interaction.
 
