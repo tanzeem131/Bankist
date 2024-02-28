@@ -19,7 +19,9 @@ Bankist is a make-believe digital banking platform created as part of a project 
 - Event delegation.
 - DOM Traversing.
 - Sticky navigation USING INTERSECTIONOBSERVER.
-- Building a slider.
+- Revealing Elements on Scroll.
+- Lazy Loading Images
+- Build a slider.
 
 
 ## Contribution
